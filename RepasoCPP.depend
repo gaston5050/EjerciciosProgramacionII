@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1672846478 source:c:\users\gastona\downloads\p\dos\repasocpp\repasocpp\main.cpp
+	<iostream>
+	"include/Fecha.h"
+
+1672845531 source:c:\users\gastona\downloads\p\dos\repasocpp\repasocpp\src\fecha.cpp
+	<iostream>
+	<string>
+	<ctime>
+	"../include/Fecha.h"
+
+1672845051 c:\users\gastona\downloads\p\dos\repasocpp\repasocpp\include\fecha.h
+
