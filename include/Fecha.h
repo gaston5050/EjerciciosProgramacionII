@@ -17,6 +17,8 @@ public:
     void setMes(int);
     void setAnio(int);
 
+     void setFecha (int dia, int mes, int anio);
+
     int getDia();
     int getMes();
     int getAnio();
